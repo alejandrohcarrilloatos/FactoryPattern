@@ -1,0 +1,7 @@
+Create a factory pattern to create the system users. The different types of users are
+•	Project leader
+•	Functional analyst
+•	Developer
+•	QA
+•	SRE
+•	Mobile
